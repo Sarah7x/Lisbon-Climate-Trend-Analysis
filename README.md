@@ -30,7 +30,7 @@ These visuals crystallize a decade of Lisbon's climate data, highlighting its te
 
 🌱 Conclusions & Future Pathways
 ---
-Our findings paint a picture of a climate marked by predictability and mild transitions. Future explorations might include:
+The findings paint a picture of a climate marked by predictability and mild transitions. Future explorations might include:
 
 - **Extended Timeline**: Broadening the dataset for a long-term climate panorama.
 - **Granular Analysis**: Zooming into micro-trends and extreme weather events.
