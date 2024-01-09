@@ -25,7 +25,7 @@ Employed a variety of analytical tools to cleanse, process, and dissect the data
 
 These visuals crystallize a decade of Lisbon's climate data, highlighting its temperate and dry nature in a glance.
 
-![Untitled](https://github.com/Sarah7x/Lisbon-Climate-Trend-Analysis/assets/152454919/7eb893b1-d474-4c7c-af5f-86962c8518f9)
+![Untitled](https://github.com/Sarah7x/Lisbon-Climate-Trend-Analysis/assets/152454919/2dd1bd7f-07da-43e7-80e4-42827e50e4b3)
 
 
 🌱 Conclusions & Future Pathways
