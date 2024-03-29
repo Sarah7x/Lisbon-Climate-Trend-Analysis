@@ -1,6 +1,6 @@
 # 🌤 Lisbon Climate Trend Analysis
 
-🌐  Project Overview
+🌐 Project Overview
 ---
 This project meticulously examines Lisbon's climate dynamics over a decade, dissecting patterns in temperature and precipitation using NOAA’s extensive meteorological datasets. The objective is to decode the subtleties of Lisbon's climate, providing valuable insights into its local weather patterns and potential broader environmental implications.
 
